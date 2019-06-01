@@ -1,7 +1,7 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "A simple burger app demonstrating the use of Node.js, Express.js, MySQL, Handlebars and ORM",
+  "description": "burgerapp",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
