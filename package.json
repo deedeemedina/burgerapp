@@ -1,0 +1,25 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "A simple burger app demonstrating the use of Node.js, Express.js, MySQL, Handlebars and ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Vig/BurgerApp.git"
+  },
+  "author": "Rahul Vig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Vig/BurgerApp/issues"
+  },
+  "homepage": "https://github.com/Rahul-Vig/BurgerApp#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "handlebars": "^4.1.2",
+    "mysql": "^2.17.1"
+  }
+}
