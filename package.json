@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rahul-Vig/BurgerApp.git"
+    "url": "git+https://github.com/deedeemedina/burgerapp.git"
   },
-  "author": "Rahul Vig",
-  "license": "ISC",
+  "author": "deedee medina",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/Rahul-Vig/BurgerApp/issues"
+    "url": "https://github.com/deedeemedina/burgerapp"
   },
-  "homepage": "https://github.com/Rahul-Vig/BurgerApp#readme",
+  "homepage": "https://github.com/deedeemedina/BurgerApp#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
