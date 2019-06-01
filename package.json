@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/deedeemedina/burgerapp"
   },
-  "homepage": "https://github.com/deedeemedina/BurgerApp#readme",
+  "homepage": "https://github.com/deedeemedina/burgerapp#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
